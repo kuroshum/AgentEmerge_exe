@@ -3,3 +3,22 @@
 
 # AgentEmerge_exe
 AgentEmergeというゲームの実行ファイルをまとめたリポジトリです。  
+エレベーターアクションというゲームを参考にグループで制作したゲームです。
+このリポジトリには、実行ファイルを置いていますが、https://github.com/kuroshum/AgentEmerge_Souece でソースコードも公開しています。
+
+# Demo  
+![agentemerge_play](https://user-images.githubusercontent.com/43520287/53159589-79f1b500-3609-11e9-9453-1805a72ad359.gif)
+  
+# Dependecy  
+GameEngine : Unity  
+使用言語    : C#  
+  
+# Usage
+キーボード操作
+ ←,→   : 移動
+ ↑,↓   : エレベーター操作
+ ↓     : しゃがみ
+ A-Key : 扉に入る
+ S-key : 弾を撃つ
+ D-key : 回避
+ 
