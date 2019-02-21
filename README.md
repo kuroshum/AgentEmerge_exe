@@ -1,4 +1,4 @@
 # AgentEmerge_exe
 AgentEmergeというゲームの実行ファイルをまとめたリポジトリです。  
-![Title](https://github.com/kuroshum/AgentEmerge_exe/AgentEmerge_title.png)  
-![Play](https://github.com/kuroshum/AgentEmerge_exe/AgentEmerge_play.png)
+![agentemerge_title](https://user-images.githubusercontent.com/43520287/53154777-d69ba280-35fe-11e9-9ced-fb13cd4d2160.png)
+
